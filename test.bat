@@ -1,0 +1,9 @@
+python Sorter.py QuickSort 101 PRINT
+python Sorter.py ShellSort 112 PRINT
+python Sorter.py MergeSort 51 PRINT
+python Sorter.py IterativeMergeSort 101 PRINT
+python Sorter.py IterativeMergeSort 9 PRINT
+python Sorter.py IterativeMergeSort 10 PRINT
+python Sorter.py IterativeMergeSort 11 PRINT
+python Sorter.py IterativeMergeSort 15 PRINT
+python Sorter.py a b c
